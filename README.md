@@ -41,4 +41,10 @@ Verify that Jira issues and GitHub activities are connected end to end, includin
 ## Expected Outcome
 The Jira issue should show clear evidence of linked GitHub activity, and GitHub should be able to reference and update the Jira issue in a consistent way.
 
+## Verification Evidence
+- Branch checked: TEST-123-test-in
+- Latest commit: TEST-123 add integration test note
+- Pull request: https://github.com/jegadeesh-murugan/testing-jira/pull/1
+- PR state: OPEN
+
 Integration test note
