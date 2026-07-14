@@ -47,4 +47,7 @@ The Jira issue should show clear evidence of linked GitHub activity, and GitHub 
 - Pull request: https://github.com/jegadeesh-murugan/testing-jira/pull/1
 - PR state: OPEN
 
+## About Me
+I am a student at RMIT and I study cybersecurity.
+
 Integration test note
