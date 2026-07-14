@@ -51,3 +51,7 @@ The Jira issue should show clear evidence of linked GitHub activity, and GitHub 
 I am a student at RMIT and I study cybersecurity.
 
 Integration test note
+
+## SCRUM-1
+
+Testing Jira and GitHub integration.
